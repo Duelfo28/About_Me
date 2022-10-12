@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my data science skills by developing different projects<br>🌱 I’m currently learning to apply deep learning tools such as tensorflow and keras<br>
+🔭 I’m currently working on improving my data science skills by developing projects to improve my portafolio.<br>🌱 I’m currently learning to apply deep learning tools such as tensorflow and keras<br>
 
 
 ## 🌐 Socials:
